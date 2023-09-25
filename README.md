@@ -15,4 +15,7 @@ It uses the [Winrar](https://www.win-rar.com/start.html?&L=0) self-extraction me
 - Download the `EXE` there.
 - After downloading complete, simply double-click on it
 
+## ⚠️ Alert
+It may or may not work for those folders which require administration privileges for accessing, like folders of `C:/` drive in windows.
+
 ### All Done, Enjoy 👋
